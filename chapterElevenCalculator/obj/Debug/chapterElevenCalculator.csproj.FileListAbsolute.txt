@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\chapterElevenCalculator\chapterElevenCalculator\bin\Debug\chapterElevenCalculator.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\chapterElevenCalculator\chapterElevenCalculator\bin\Debug\chapterElevenCalculator.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\chapterElevenCalculator\chapterElevenCalculator\bin\Debug\chapterElevenCalculator.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\chapterElevenCalculator\chapterElevenCalculator\obj\Debug\chapterElevenCalculator.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\chapterElevenCalculator\chapterElevenCalculator\obj\Debug\chapterElevenCalculator.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\chapterElevenCalculator\chapterElevenCalculator\obj\Debug\chapterElevenCalculator.pdb
